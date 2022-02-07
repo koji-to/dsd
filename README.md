@@ -1,1 +1,1 @@
-Jupyter notebook for Demusar Significant Diagram
+Jupyter notebook for Dem˘sar’s significance diagram.
